@@ -1,0 +1,193 @@
+/*=========== xtra small device ============*/
+@media(max-width:575.98px){
+    
+.navbar-light .navbar-brand {
+	 padding-top: 0; 
+}
+.navbar-toggler {
+    border:none;
+}    
+.navbar-toggler i {
+    color: #fff;
+    font-size: 24px;
+}
+.navbar-expand-lg .navbar-nav {
+	background: #2a2e48;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.banner-text h1 {
+	font-size: 26px;
+	line-height: 34px;
+}
+.banner-text {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#service {
+	padding-top: 50px;
+    padding-bottom: 10px;
+}    
+#team {
+	padding: 50px 0;
+}
+.test-feedback p {
+	font-size: 26px;
+	line-height: 34px;
+}
+.test-slider {
+	padding-top: 40px;
+}
+.test-slider .slick-dots li {
+	margin: 0 4px;
+}
+.test-slider .slick-dots {
+    bottom: 0!important;
+}
+.download-text h3 {
+	font-size: 24px;
+}
+#download {
+	padding: 45px 0;
+}
+.footer-item p {
+	padding: 0 68px;
+}    
+.footer-item{
+    padding-bottom: 20px;
+}
+.download-text .btn {
+	padding: 15px 55px;
+}
+#footer {
+	padding-top: 50px;
+	padding-bottom: 0;
+}    
+}
+/*=========== small device ============*/
+@media(min-width:576px) and (max-width:767.98px){
+.navbar-light .navbar-brand {
+	 padding-top: 0; 
+}
+.navbar-toggler {
+    border:none;
+}    
+.navbar-toggler i {
+    color: #fff;
+    font-size: 24px;
+}
+.navbar-expand-lg .navbar-nav {
+	background: #2a2e48;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.banner-text h1 {
+	font-size: 26px;
+	line-height: 34px;
+}
+.banner-text {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}    
+#service {
+	padding-top: 50px;
+    padding-bottom: 10px;
+}
+.test-feedback p {
+	font-size: 22px;
+	line-height: 22px;
+}
+.test-slider {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.test-feedback h5 {
+	padding-top: 5;
+}
+#download {
+	padding: 45px 0;
+}
+.footer-item p {
+	padding: 0 44px;
+} 
+.footer-item {
+    padding-bottom: 50px;
+} 
+#footer {
+	padding-bottom: 0;
+}
+    
+}
+@media(width:576px){
+.test-feedback p {
+	font-size: 18px;
+}
+.test-slider {
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+.test-feedback h5 {
+	padding-top: 0;
+}
+.test-slider .slick-dots {
+	bottom: -30px;
+}
+.test-slider .slick-dots li {
+    margin: 0 2px;
+}    
+}
+/*=========== medium device ============*/
+@media(min-width:768px) and (max-width:991.98px){
+.navbar-expand-md .navbar-nav .nav-link {
+	padding-right: 10px;
+	padding-left: 10px;
+}    
+.navbar-light .navbar-brand {
+	padding-top: 0;
+}
+.banner-text h1 {
+	font-size: 50px;
+}    
+.banner-text {
+	padding-top: 130px;
+	padding-bottom: 100px;
+}
+#service {
+	padding: 30px 0;
+}
+.test-slider {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.test-feedback p {
+    font-size: 24px;
+    line-height: 28px;    
+}
+.test-feedback h5 {
+	padding-top: 0;
+}
+#download {
+	padding: 55px 0;
+}
+.footer-item p {
+	padding: 0 15px;
+}
+#footer {
+	padding-bottom: 25px;
+}    
+}
+/*=========== large device ============*/
+@media(min-width:992px) and (max-width:1199.98px){
+.test-feedback p {
+	font-size: 24px;
+	line-height: 30px;
+}
+.test-slider {
+	padding-top: 30px;
+    padding-bottom: 20px;
+}
+.test-slider .slick-dots li {
+	margin: 0 3px;
+}    
+}
+/*=========== xtra small device ============*/
